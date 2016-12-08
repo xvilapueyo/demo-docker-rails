@@ -18,4 +18,6 @@
 
 /public/assets/*
 Gemfile.lock
-.mobydock.env
+
+# Commenting this since is only for testing purposes
+#.mobydock.env
